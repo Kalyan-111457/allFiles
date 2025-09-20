@@ -38,6 +38,8 @@ namespace ConsoleApp2
 
             PrintInfo(name: "kishore", zipcode: 522124);
 
+          
+
 
         }
 

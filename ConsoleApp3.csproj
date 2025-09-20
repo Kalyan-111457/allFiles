@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp2.Functions</StartupObject>
+    <StartupObject>ConsoleApp2.DateTim1</StartupObject>
   </PropertyGroup>
 
 </Project>
